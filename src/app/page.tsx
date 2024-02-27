@@ -44,8 +44,8 @@ export default function Home() {
         </p>
         <div className="flex gap-2">
           <p className="emphasis">say hello</p>
-          <a href="mailto: me@ynssenem.com" className="hover:opacity-50">
-            📨 me@ynssenem.dev
+          <a href="mailto:yunussenem@icloud.com" className="hover:opacity-50">
+            📨 yunussenem@icloud.com
           </a>
         </div>
       </div>
