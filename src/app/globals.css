@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-background: #151515;
+  --color-primary: #fff;
+  --color-secondary: #1e201f;
+  --color-muted: #949495;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-primary);
+  font-size: 16px;
+  text-transform: lowercase;
+}
+
+.emphasis {
+  color: var(--color-muted);
+}
